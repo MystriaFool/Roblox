@@ -1,5 +1,5 @@
 # Intro
-Hey, I'm Mysteria. Please make sure to read everything above before DM'ing me. Also, I dont accept friend requests.
+Hey, I'm Mystria. Please make sure to read everything above before DM'ing me. Also, I dont accept friend requests.
 
 # Work
 I am good at making almost everything, but some things i am good at:
