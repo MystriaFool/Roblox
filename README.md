@@ -12,7 +12,7 @@ I am good at making almost everything, but some things i am good at:
 
 # Sneaks
 Some of the pastwork i have made:
-- Simpler Test Obby: Video Link (streamable)
+- Simple NPC Dialogue: [Video Link](https://streamable.com/cvh0ex) (streamable)
 
 # Contact & Payment
 Discord Only:
