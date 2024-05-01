@@ -12,7 +12,7 @@ I am good at making almost everything, but some things i am good at:
 
 # Sneaks
 Some of the pastwork i have made:
-- Simple NPC Dialogue: [[Video Link]((https://streamable.com/coihxo)]
+- Simple NPC Dialogue: [[[Video Link]](https://streamable.com/coihxo)
 
 # Contact & Payment
 Discord Only:
