@@ -11,7 +11,7 @@ I am good at making almost everything, but some things i am good at:
 -There is a plenty more, DM me if what you want is not anything above but not anything below as well. I can see if I can make it.
 
 # Sneaks
-Some of the pastwork i have made:
+Some of the works i have made:
 - Simple NPC Dialogue : [[Streamable]](https://streamable.com/coihxo)
 
 # Contact & Payment
