@@ -1,21 +1,24 @@
 # Intro
-Hey, I'm Mystria. Please make sure to read everything above before DM'ing me. Also, I dont accept friend requests.
+Hey there!, I'm Mystria, Please read everything below before reaching out. Note that I don't accept friend requests.
 
 # Work
-I am good at making almost everything, but some things i am good at:
--Making Combat Systems
--Making Abilities / Skills
--Making Tools
--GUI related stuff
--Cutscenes
--There is a plenty more, DM me if what you want is not anything above but not anything below as well. I can see if I can make it.
+I am good at making almost everything, Here are some of my specialties:
+- <p>Making Combat Systems.<br>
+- <p>Making Ai/NPC.<br>
+- <p>Making Abilities / Skills.<br>
+- <p>Making Tools.<br>
+- <p>GUI related stuff.<br>
+- <p>Cutscenes.<br>
+- <p>Making Dialogues.<br>
 
-# Sneaks
+If what you're looking for isn't listed but is related, feel free to DM me, and I'll see if I can help.
+
+# Showcase
 Some of the works i have made:
-- Simple NPC Dialogue : [[Streamable]](https://streamable.com/coihxo)
+- Simple NPC Dialogue : [[Streamable]](https://streamable.com/coihxo) 
 
 # Contact & Payment
 Discord Only:
-I don't take % as a type of payment.
-I can do Paypal, Bitcoin, Robux.
-I take some partial payment upfront for security & for upholding both our ends.
+- I don't take % as a type of payment.
+- I can do Paypal, Bitcoin, Robux.
+- I take some partial payment upfront for security & for upholding both our ends.
