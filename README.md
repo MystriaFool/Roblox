@@ -9,7 +9,7 @@ I am good at making almost everything, Here are some of my specialties
   - <p>Making Ai/NPC.
   - <p>Making Abilities / Skills.
   - <p>Making Tools.
-  - <p>GUI related stuff.
+  - <p>GUI Related Stuff.
   - <p>Cutscenes.
   - <p>Making Dialogues.<br>
   -----------------------------------------
