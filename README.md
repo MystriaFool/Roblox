@@ -16,7 +16,7 @@ I am good at making almost everything, Here are some of my specialties
 If what you're looking for isn't listed but is related, feel free to DM me, and I'll see if I can help.
 
 # Showcase
-Some of the works i have made
+Some of the works i have made:
 
 -----------------------------------------
 - Simple NPC Dialogue : [[Streamable]](https://streamable.com/coihxo)
